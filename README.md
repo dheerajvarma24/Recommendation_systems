@@ -1,4 +1,4 @@
-# Recommender_systems
+# Recommender Systems
 
 The technique used in recommender systems is Collaborative Filtering. There are two types of CF.
 
