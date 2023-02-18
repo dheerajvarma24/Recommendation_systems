@@ -1,8 +1,8 @@
 # Recommender Systems
 
-The technique used in recommender systems is Collaborative Filtering. There are two types of CF.
+The technique used in recommender systems is Collaborative Filtering. There are two types of Collaborative Filtering techniques.
 
-### 1) User based CF: Grouping users of similar interests and recommending stuff from other person likes in the same group which I haven't seen yet.
+### 1) User based Collaborative Filtering: Grouping users of similar interests and recommending stuff from other person likes in the same group which I haven't seen yet.
 
 #### Working intuition:
 
@@ -18,7 +18,7 @@ Computer similarity score. Simple dot product or pesrson corrleation score. Find
 
 
 
-### 2) Item based CF:  Grouping similar items together
+### 2) Item based Collaborative Filtering:  Grouping similar items together
 
 #### a. Naive way: group items based on Genre, language, year etc.
 
